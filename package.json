@@ -1,0 +1,23 @@
+{
+  "name": "lockx",
+  "version": "0.0.1",
+  "description": "锁住你的代码片段，缓存等待队列，控制并发",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhoumingque/LockX.git"
+  },
+  "keywords": [
+    "queue",
+    "lock"
+  ],
+  "author": "zhoumq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhoumingque/LockX/issues"
+  },
+  "homepage": "https://github.com/zhoumingque/LockX#readme"
+}
