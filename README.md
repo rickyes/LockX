@@ -3,6 +3,11 @@
 
 [![NPM](https://nodei.co/npm/lockx.png?compact=true)](https://nodei.co/npm/lockx/)
 
+## install
+```
+$ npm install lockx --save
+```
+
 ## dev
 ```javascipt
 const Lock = require('lockx');
