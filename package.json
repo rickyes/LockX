@@ -1,6 +1,6 @@
 {
   "name": "lockx",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "锁住你的代码片段，缓存等待队列，控制并发",
   "main": "index.js",
   "scripts": {
