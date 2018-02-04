@@ -4,9 +4,9 @@ console.log(Lock);
 let index = 10;
 while (index-- > 0) {
   Lock.lock(lockName, function(data) {
-    console.log('lock', data);
+    console.log('-lock-', data);
     setTimeout(() => {
-      console.log('unlock');
+      console.log('-unlock-');
       Lock.releaseLock(lockName);
     }, 1000);
   }, {
