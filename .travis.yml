@@ -7,6 +7,5 @@ node_js:
 - "9"
 before_install: if [[ $(node -v) == v4* && $(npm -v) != 3* ]]; then npm i -g npm@3; fi
 script:
-- npm install
 - npm install lockx
 - npm run test
