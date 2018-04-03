@@ -1,15 +1,16 @@
 # LockX
-锁住你的代码片段，缓存等待队列，控制并发
+锁住代码片段，缓存等待队列，控制并发
 
+[![Build Status](https://travis-ci.org/zhoumingque/LockX.svg?branch=master)](https://travis-ci.org/zhoumingque/LockX)
+
+## Install
 [![NPM](https://nodei.co/npm/lockx.png?compact=true)](https://nodei.co/npm/lockx/)
-
-## install
 ```
 $ npm install lockx --save
 ```
 
-## dev
-```javascipt
+## Dev
+```javascript
 const Lock = require('lockx');
 const lockName = 'test';
 let index = 10;
