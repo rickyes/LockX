@@ -2,6 +2,8 @@
 锁住代码片段，缓存等待队列，控制并发
 
 [![Build Status](https://travis-ci.org/zhoumingque/LockX.svg?branch=master)](https://travis-ci.org/zhoumingque/LockX)
+[![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/lockx)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://www.npmjs.com/package/lockx)
 
 ## Install
 [![NPM](https://nodei.co/npm/lockx.png?compact=true)](https://nodei.co/npm/lockx/)
