@@ -7,6 +7,7 @@
 
 ## Install
 [![NPM](https://nodei.co/npm/lockx.png?compact=true)](https://nodei.co/npm/lockx/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzhoumingque%2FLockX.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fzhoumingque%2FLockX?ref=badge_shield)
 ```
 $ npm install lockx --save
 ```
@@ -30,3 +31,7 @@ while (index-- > 0) {
   });
 }
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzhoumingque%2FLockX.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fzhoumingque%2FLockX?ref=badge_large)
