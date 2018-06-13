@@ -35,7 +35,7 @@ function doSomeing() {
 
     let time = Math.floor(Math.random() * 10);
     let red = '\033[0;31;1m';
-    let normal = '\033[0;38;1m';
+    let normal = '\033[40;37m\033[0m';
     let green = '\033[0;32;1m';
 
     setTimeout(() => {
